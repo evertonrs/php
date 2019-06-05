@@ -1,4 +1,0 @@
-atualizar pasta => git pull origin master
-subir pasta => git add --all
-subir pasta => git commit -m "msg"
-subir pasta => git push origin master
